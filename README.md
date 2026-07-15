@@ -365,25 +365,25 @@ Franchises clearly prioritized different skill sets based on their team-building
 
 **Team-wise Recruitment Strategy Narratives**
 
-**CSK** — All-rounder-led model: 45.5% of purse on all-rounders, only 5 retained players but they absorb 54.2% of spend — a small, expensive core surrounded by cheaper auction fill-ins. Balanced age spread, no clear youth or veteran bias.
+**CSK** : All-rounder-led model: 45.5% of purse on all-rounders, only 5 retained players but they absorb 54.2% of spend , a small, expensive core surrounded by cheaper auction fill-ins. Balanced age spread, no clear youth or veteran bias.
 
-**DC** — Rebuild mode: 62.5% of spend came via auction (only 4 retentions), bowling-heavy (40.1% spend) and skewed toward 30-35 age band (45.5% of spend) — buying ready-now bowling experience rather than building youth.
+**DC** : Rebuild mode: 62.5% of spend came via auction (only 4 retentions), bowling-heavy (40.1% spend) and skewed toward 30-35 age band (45.5% of spend) , buying ready-now bowling experience rather than building youth.
 
-**GT** — Bowling-first, auction-built squad: 46.3% spend on bowlers, 57.4% via auction. Heavy bet on 25-30 age group (58.3% of spend) — peak-career batting/all-round talent, not high-risk youth.
+**GT** : Bowling-first, auction-built squad: 46.3% spend on bowlers, 57.4% via auction. Heavy bet on 25-30 age group (58.3% of spend) , peak-career batting/all-round talent, not high-risk youth.
 
-**KKR** — All-rounder-anchored (50.2% spend, highest among all teams) with retention-heavy core (52.8% spend on just 6 retained players) and a tilt to 30-35 experience (43.9%) — title-defense, experience-over-youth strategy.
+**KKR** : All-rounder-anchored (50.2% spend, highest among all teams) with retention-heavy core (52.8% spend on just 6 retained players) and a tilt to 30-35 experience (43.9%) , title-defense, experience-over-youth strategy.
 
-**LSG** — Batting-heavy (49.2% spend) built almost entirely through auction (57.4%), concentrated in 25-30 age group (55.7%) — also the most star-dependent squad: top 2 buys eat 40.1% of total purse, signalling reliance on a couple of marquee picks.
+**LSG** : Batting-heavy (49.2% spend) built almost entirely through auction (57.4%), concentrated in 25-30 age group (55.7%) , also the most star-dependent squad: top 2 buys eat 40.1% of total purse, signalling reliance on a couple of marquee picks.
 
-**MI** — Most retention-stable franchise: 62.6% of spend locked in just 5 retained players, lowest international spend share (22.8%) — domestic-core, bowling-tilted (39.6%) team betting on experienced (30-35 & Above-35 combine to 77.4%) talent, prioritizing continuity over auction gambles.
+**MI** : Most retention-stable franchise: 62.6% of spend locked in just 5 retained players, lowest international spend share (22.8%) , domestic-core, bowling-tilted (39.6%) team betting on experienced (30-35 & Above-35 combine to 77.4%) talent, prioritizing continuity over auction gambles.
 
-**PBKS** — Almost a fresh build: 92.1% of spend via auction (only 2 retained players, 7.9% spend) — by far the most auction-dependent franchise. Balanced Bat/Bowl/AR split (~32-36% each) but skewed to 30-35 experience (46.9%) and second-highest star concentration (37.4% on top 2 buys) — high-risk, high-reinvestment strategy.
+**PBKS** : Almost a fresh build: 92.1% of spend via auction (only 2 retained players, 7.9% spend) , by far the most auction-dependent franchise. Balanced Bat/Bowl/AR split (~32-36% each) but skewed to 30-35 experience (46.9%) and second-highest star concentration (37.4% on top 2 buys) , high-risk, high-reinvestment strategy.
 
-**RCB** — Batting-first identity (47.6% spend, highest among all), majority via auction (69%), concentrated in 30-35 prime-batting years (44.9%) — clear strategy: buy proven middle-order/top-order bats at auction.
+**RCB** : Batting-first identity (47.6% spend, highest among all), majority via auction (69%), concentrated in 30-35 prime-batting years (44.9%) , clear strategy: buy proven middle-order/top-order bats at auction.
 
-**RR** — Retention-core team (66% spend on 6 retained), lowest all-rounder count (4 players, smallest depth) but balanced age spread (~32-34% across 20-25/25-30/30-35) — a young, retained-core, less reliant on overseas (30.6%) strategy.
+**RR** : Retention-core team (66% spend on 6 retained), lowest all-rounder count (4 players, smallest depth) but balanced age spread (~32-34% across 20-25/25-30/30-35) , a young, retained-core, less reliant on overseas (30.6%) strategy.
 
-**SRH** — International-bowling/overseas-leaning team (50.4% spend — highest overseas share of any team), batting-led spend (43.7%) skewed to 30-35 group (58.1%, highest concentration in this band) — clear "experienced batting core + overseas firepower" model.
+**SRH** : International-bowling/overseas-leaning team (50.4% spend , highest overseas share of any team), batting-led spend (43.7%) skewed to 30-35 group (58.1%, highest concentration in this band) , clear "experienced batting core + overseas firepower" model.
 
 
 ---
