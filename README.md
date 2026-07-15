@@ -276,8 +276,7 @@ The exploratory analysis focused on understanding franchise auction strategies a
 
 ## Team-wise Total Spending
 
-
-###Total Spend by Team
+### Total Spend by Team
 
 
 ![Total Spend by Team](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/1a.png)
