@@ -327,6 +327,7 @@ Franchises invested ₹774.35 Cr (65.5%) in domestic players compared to ₹407.
 ### Insights
 
 SRH showed the highest reliance on overseas talent, allocating 50.4% of its auction budget to international players. In contrast, MI had the lowest foreign dependency at 22.8%, investing nearly four-fifths of its budget in domestic talent. This indicates considerable variation in team-building strategies across franchises.
+
 ---
 
 ## Squad Building Strategy
