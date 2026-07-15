@@ -5,7 +5,7 @@
 ---
 
 ### IPL 2025 Dashboard Mega Auction
-![IPL 2025 Dashboard Mega Auction]()
+![IPL 2025 Dashboard Mega Auction](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/dashboard.PNG)
 
 ---
 
@@ -278,7 +278,7 @@ The exploratory analysis focused on understanding franchise auction strategies a
 
 ###Total Spend by Team
 
-![Total Spend by Team](1a)
+![Total Spend by Team]([1a](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/1a.png))
 
 ### Insights
 
@@ -286,7 +286,7 @@ The exploratory analysis focused on understanding franchise auction strategies a
 
 ### Spending Concentration
 
-![Spending Concentration](1b)
+![Spending Concentration]([1b](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/1b.png))
 
 ### Insights
 
@@ -298,7 +298,7 @@ PBKS showed the highest spending concentration, investing 52.4% of its total bud
 
 ### Team Preferences: Which teams rely more on capped players and which teams actively invest in uncapped talent?
 
-![Team Preferences](2a)
+![Team Preferences](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/2a.png)
 
 ### Insights
 
@@ -314,7 +314,7 @@ The auction data shows that IPL franchises prioritize quality over quantity when
 
 ### Budget Allocation: How much auction money was invested in domestic vs overseas players?
 
-![Budget Allocation](3a)
+![Budget Allocation](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/3a.png)
 
 ### Insights
 
@@ -322,7 +322,7 @@ Franchises invested ₹774.35 Cr (65.5%) in domestic players compared to ₹407.
 
 ### Foreign Player Dependency
 
-![Foreign Player Dependency](3b)
+![Foreign Player Dependency](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/3b.png)
 
 ### Insights
 
@@ -333,7 +333,7 @@ SRH showed the highest reliance on overseas talent, allocating 50.4% of its auct
 
 ### Squad Balance (Role Investment) : Which skill areas received the highest investment?
 
-![Squad Balance](4a)
+![Squad Balance](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/4a.png)
 
 ### Insights
 Franchises clearly prioritized different skill sets based on their team-building philosophy. CSK (₹54.55 Cr) and KKR (₹54.15 Cr) invested most heavily in all-rounders, emphasizing squad flexibility. LSG (₹58.85 Cr) and RCB (₹56.80 Cr) focused primarily on specialist batters, while GT (₹55.55 Cr) and MI (₹47.45 Cr) allocated the largest share of their budgets to bowlers, strengthening their bowling attack. SRH adopted a batting and all-rounder-focused strategy, spending ₹52.35 Cr on batters and ₹47.75 Cr on all-rounders while investing only ₹19.70 Cr in bowlers.
@@ -357,7 +357,7 @@ Franchises clearly prioritized different skill sets based on their team-building
 
 ### Retained vs Auctioned (core stability)
 
-![Retained vs Auctioned](4b)
+![Retained vs Auctioned](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/4b.png)
 
 ### Insights
 
