@@ -278,7 +278,7 @@ The exploratory analysis focused on understanding franchise auction strategies a
 
 ###Total Spend by Team
 
-![Total Spend by Team]([1a](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/1a.png))
+![Total Spend by Team](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/1a.png)
 
 ### Insights
 
@@ -286,7 +286,7 @@ The exploratory analysis focused on understanding franchise auction strategies a
 
 ### Spending Concentration
 
-![Spending Concentration]([1b](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/1b.png))
+![Spending Concentration](https://github.com/parthadata7/IPL-2025-Mega-Auction-Analysis-Python-SQL-Excel-Dashboard/blob/main/screenshots/charts/1b.png)
 
 ### Insights
 
