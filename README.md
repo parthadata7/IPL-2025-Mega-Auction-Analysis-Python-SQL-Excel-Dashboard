@@ -440,11 +440,6 @@ The IPL auction is not driven by a single winning strategy. Instead, franchises 
 ## Contact
 
 **Name:** Partha Pratim Das
-
 **Email:** [parthadataanalyst@gmail.com](mailto:parthadataanalyst@gmail.com)
-
-**LinkedIn:** []()
-
+**LinkedIn:** [LinkedIn](linkedin.com/in/partha-pratim-das-01a579423) 
 **Portfolio:** []()
-
-**GitHub:** []()
